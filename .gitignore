@@ -1,0 +1,7 @@
+# Compiled files
+*.pyc
+
+# Distribution / packaging
+/dist/
+/*.egg-info
+/.eggs/
